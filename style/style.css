@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.image{
+    width: 300px;
+    padding-right: 40px;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50vh;
+    border: 1px solid rgba(229, 84, 115, 0.10);
+    background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 100px;
+}
+.title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700px;
+    line-height: normal;
+}
+.para{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
+.btn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background: #E55473;
+    margin-top: 10px;
+}
+.banner-text{
+    padding-left: 40px;
+}
+.second-banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30vh;
+    border: 1px solid rgba(229, 84, 115, 0.10);
+    background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 100px;
+} 
+.second-image{
+    width: 200px;
+    height: 200px;
+    margin-right: 80px;
+}
+.second-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+}
+.second-text{
+    text-align: center;
+}
+.second-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+.insta{
+    text-align: center;
+}
+.pra{
+    font-size: small;
+}
+.main-photo{
+    display: flex;
+    justify-content: center;
+}
