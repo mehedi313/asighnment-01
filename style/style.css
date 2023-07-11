@@ -96,3 +96,32 @@ main{
     height: 240px;
     width: 220px;
 }
+.form-text{
+    text-align: center;
+    background-image: url('../cover.png');
+    width: 760px;
+    height: 200px; 
+    margin: auto;
+    
+    
+}
+.tetx{
+    text-align: center;
+    padding: 50px;
+}  
+.tetx h2{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 35px;
+    font-weight: 800;
+
+}
+.tetx input{
+    padding: 10px 50px;
+    border: 0;
+    border-radius: 7px;
+    background-color: white;
+}
+
+
