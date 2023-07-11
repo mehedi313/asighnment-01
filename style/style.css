@@ -80,13 +80,19 @@ main{
     max-width: 1140px;
     margin: 0px auto;
 }
-.insta{
-    text-align: center;
-}
-.pra{
-    font-size: small;
-}
+
 .main-photo{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 200px;
+    margin-bottom: 25px;
+}
+.main-title{
+    text-align: center;
+    padding: 20px 0;
+}
+.main-img{
+    height: 240px;
+    width: 220px;
 }
