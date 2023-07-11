@@ -102,6 +102,7 @@ main{
     width: 760px;
     height: 200px; 
     margin: auto;
+    margin-top: 50px;
     
     
 }
@@ -123,5 +124,22 @@ main{
     border-radius: 7px;
     background-color: white;
 }
+.footer{
+   
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(41, 38, 38);
+    padding: 60px 200px;
+    color: white;
+    margin-top: 50px;
+}
+.footer p{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+
 
 
